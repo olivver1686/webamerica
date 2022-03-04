@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/webamerica/static/css/main.4a2e7a6c.css",
-    "main.js": "/webamerica/static/js/main.394b32bc.js",
+    "main.js": "/webamerica/static/js/main.16eac9f0.js",
     "index.html": "/webamerica/index.html",
     "main.4a2e7a6c.css.map": "/webamerica/static/css/main.4a2e7a6c.css.map",
-    "main.394b32bc.js.map": "/webamerica/static/js/main.394b32bc.js.map"
+    "main.16eac9f0.js.map": "/webamerica/static/js/main.16eac9f0.js.map"
   },
   "entrypoints": [
     "static/css/main.4a2e7a6c.css",
-    "static/js/main.394b32bc.js"
+    "static/js/main.16eac9f0.js"
   ]
 }
