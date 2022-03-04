@@ -71,6 +71,7 @@ export default () => {
                 </a>
         <br/>
         Americatel + es un servicio por suscripción de pago, su contenido está variado juntando todo en uno.
+        <br/> +51 946324747
       </footer>
 
       {movielist.length <= 0 &&

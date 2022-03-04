@@ -5,7 +5,7 @@ export default ({black}) => {
     return (
         <header className={black ? 'black' : ''}>
             <div className="header--logo">
-                <a href="/">
+                <a hre f="">
                     <img src="https://i.ibb.co/vD5YX9y/peque-o-logo.png" alt="Americatel" />
                 </a>
             </div>
