@@ -66,12 +66,18 @@ export default () => {
       </section>
 
       <footer>
-      <a href="https://bit.ly/americaclub">
+      <a href="https://bit.ly/americatech">
                     <img src="https://i.postimg.cc/Ls0Gk82K/qqqqqweqwe.png" alt="Usuario" />
                 </a>
         <br/>
         Americatel + es un servicio por suscripción de pago, su contenido está variado juntando todo en uno.
-        <br/> +51 946324747
+        <br/> 
+        <a href="https://wa.me/51946324747">
+                    <img src="https://i.ibb.co/1RDFjLg/qqqqqqqqqq.jpg" alt="Usuario" />
+                </a>
+                <a href="https://www.facebook.com/Americateltv">
+                    <img src="https://i.ibb.co/bBksTFY/imagen-2022-05-02-002001151.png" alt="Usuario" />
+                </a>
       </footer>
 
       {movielist.length <= 0 &&
