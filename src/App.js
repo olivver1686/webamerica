@@ -67,7 +67,7 @@ export default () => {
 
       <footer>
       <a href="https://bit.ly/americatech">
-                    <img src="https://i.postimg.cc/Ls0Gk82K/qqqqqweqwe.png" alt="Usuario" />
+                    <img src="https://i.ibb.co/VwNVshH/seguido-sin-fondo.png" alt="Usuario" />
                 </a>
         <br/>
         Americatel + es un servicio por suscripción de pago, su contenido está variado juntando todo en uno.
