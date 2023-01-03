@@ -66,7 +66,7 @@ export default () => {
       </section>
 
       <footer>
-      <a href="https://bit.ly/americatech">
+      <a href="https://bit.ly/americaglass">
                     <img src="https://i.ibb.co/VwNVshH/seguido-sin-fondo.png" alt="Usuario" />
                 </a>
         <br/>
