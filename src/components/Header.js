@@ -6,7 +6,7 @@ export default ({black}) => {
         <header className={black ? 'black' : ''}>
             <div className="header--logo">
                 <a hre f="">
-                    <img src="https://i.ibb.co/vD5YX9y/peque-o-logo.png" alt="Americatel" />
+                    <img src="https://i.ibb.co/VwNVshH/seguido-sin-fondo.png" alt="Americatel" />
                 </a>
             </div>
             <div className='header--user'>
